@@ -7,3 +7,4 @@ git add .
 
 git commit -m "Upload changes"
 
+added from the user interface of github I used Git push to push it to the website and now I will use pull to put this change back to the vs code :D
